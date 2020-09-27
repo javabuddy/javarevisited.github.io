@@ -18,13 +18,18 @@ A github page for my blog Javarevisited and Java67 and Medium channel, here you 
 
 
 ## 3. JavaScript
+
 [15 Best JavaScript online courses](https://medium.com/javarevisited/10-best-online-courses-to-learn-javascript-in-2020-af5ed0801645)
-[13 Free JavaScript courses](https://medium.com/javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2[20+ website to learn programming for FREE](https://medium.com/javarevisited/top-20-sites-to-learn-coding-in-2020-f57ff63d9cb3)
+
+[13 Free JavaScript courses](https://medium.com/javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2)
+
 [Best JavaScript Tutorials for Beginners](https://medium.com/javarevisited/12-free-courses-to-learn-javascript-and-es6-for-beginners-and-experienced-developers-aa35874c9a32)
+
 [Best TypeScript courses for Beginners)(https://medium.com/@javinpaul/7-best-courses-to-learn-typescript-in-depth-58439e1ce729?source=---------29------------------)
 
 
 ## 4. Programming
+
 [20+ website to learn programming for FREE](https://medium.com/javarevisited/top-20-sites-to-learn-coding-in-2020-f57ff63d9cb3)
 
 
