@@ -44,5 +44,5 @@ A github page for my blog Javarevisited and Java67 and Medium channel, here you 
 
 [How to crack Spring certification](https://javarevisited.blogspot.com/2018/08/how-to-crack-spring-core-professional-certification-exam-java-latest.html#axzz5j90KOik7)
 
-[5 Free Spring MVC, Spring Core, and Spring Boot courses](https://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html_
+[5 Free Spring MVC, Spring Core, and Spring Boot courses](https://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html)
 
