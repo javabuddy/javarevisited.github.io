@@ -25,7 +25,7 @@ A github page for my blog Javarevisited and Java67 and Medium channel, here you 
 
 [Best JavaScript Tutorials for Beginners](https://medium.com/javarevisited/12-free-courses-to-learn-javascript-and-es6-for-beginners-and-experienced-developers-aa35874c9a32)
 
-[Best TypeScript courses for Beginners)(https://medium.com/@javinpaul/7-best-courses-to-learn-typescript-in-depth-58439e1ce729?source=---------29------------------)
+[Best TypeScript courses for Beginners](https://medium.com/@javinpaul/7-best-courses-to-learn-typescript-in-depth-58439e1ce729)
 
 
 ## 4. Programming
@@ -35,9 +35,11 @@ A github page for my blog Javarevisited and Java67 and Medium channel, here you 
 
 ## 5. DevOps
 [The Comprehsnive DevOps RoadMap](https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb)
-[5 Courses to become DevOps Engineer) (https://medium.com/javarevisited/top-5-online-courses-to-become-a-devops-engineer-in-2020-764f5e60c2b)
 
-##6. Spring and Spring Boot
+[5 Courses to become DevOps Engineer)(https://medium.com/javarevisited/top-5-online-courses-to-become-a-devops-engineer-in-2020-764f5e60c2b)
+
+## 6. Spring and Spring Boot
+
 [Top 20 Spring Boot Interview Questions](https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html)
 
 [How to crack Spring certification](https://javarevisited.blogspot.com/2018/08/how-to-crack-spring-core-professional-certification-exam-java-latest.html#axzz5j90KOik7)
