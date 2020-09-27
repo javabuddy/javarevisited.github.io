@@ -36,7 +36,7 @@ A github page for my blog Javarevisited and Java67 and Medium channel, here you 
 ## 5. DevOps
 [The Comprehsnive DevOps RoadMap](https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb)
 
-[5 Courses to become DevOps Engineer)(https://medium.com/javarevisited/top-5-online-courses-to-become-a-devops-engineer-in-2020-764f5e60c2b)
+[5 Courses to become DevOps Engineer](https://medium.com/javarevisited/top-5-online-courses-to-become-a-devops-engineer-in-2020-764f5e60c2b)
 
 ## 6. Spring and Spring Boot
 
