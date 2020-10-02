@@ -9,12 +9,17 @@ A github page for my blog Javarevisited and Java67 and Medium channel, here you 
 
 [10 Scala and Groovy Frameworks Java developer can learn](https://javarevisited.blogspot.com/2020/09/top-10-scala-and-groovy-frameworks-java.html)
 
+[Top 5 Websites to learn Java Coding for FREE](https://javarevisited.blogspot.com/2018/07/top-5-websites-to-learn-coding-in-java.html)
+
+
 ## 2. Python
 [Top 10 Courses to Learn Python in 2020](https://medium.com/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec)
 
 [15 Free Courses to Learn Python in 2020](https://medium.com/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf)
 
 [Top 10 Python Programming Books for Beginners and Experienced Programmers](https://medium.com/javarevisited/my-favorite-books-to-learn-python-in-depth-77465633b46e)
+
+[Top 5 Python Books for Data Science and Machine Learning](https://javarevisited.blogspot.com/2019/08/top-5-python-books-for-data-science-and-machine-learning.html)
 
 
 ## 3. JavaScript
@@ -45,4 +50,16 @@ A github page for my blog Javarevisited and Java67 and Medium channel, here you 
 [How to crack Spring certification](https://javarevisited.blogspot.com/2018/08/how-to-crack-spring-core-professional-certification-exam-java-latest.html#axzz5j90KOik7)
 
 [5 Free Spring MVC, Spring Core, and Spring Boot courses](https://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html)
+
+## 6. Spring and Spring Boot
+
+[Top 20 Spring Boot Interview Questions](https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html)
+
+[How to crack Spring certification](https://javarevisited.blogspot.com/2018/08/how-to-crack-spring-core-professional-certification-exam-java-latest.html#axzz5j90KOik7)
+
+[5 Free Spring MVC, Spring Core, and Spring Boot courses](https://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html)
+
+[10 Free Spring Course for Beginners](https://medium.com/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25)
+
+
 
