@@ -51,7 +51,9 @@ A github page for my blog Javarevisited and Java67 and Medium channel, here you 
 
 [5 Free Spring MVC, Spring Core, and Spring Boot courses](https://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html)
 
-## 6. Spring and Spring Boot
+
+
+## 7. Spring and Spring Boot
 
 [Top 20 Spring Boot Interview Questions](https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html)
 
@@ -61,5 +63,15 @@ A github page for my blog Javarevisited and Java67 and Medium channel, here you 
 
 [10 Free Spring Course for Beginners](https://medium.com/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25)
 
+
+## 8. Web Development
+
+[Best Web Development courses for Beginners](https://medium.com/better-programming/my-5-favorite-courses-to-learn-web-development-in-2019-a5e74167f8b2)
+
+[Best Full stack development courses for Beginners](https://medium.com/javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232)
+
+[Free courses to become full stack Java developer](https://medium.com/javarevisited/10-free-full-stack-java-development-courses-for-beginners-and-experienced-programmers-8473390bec03)
+
+[Best Python courses for Web development](https://medium.com/javarevisited/top-10-courses-to-learn-python-for-web-development-in-2020-best-of-lot-efe11fb6d212)
 
 
